@@ -1,6 +1,4 @@
 
-   
-
 import turtle as tl
 import tkinter as tk
 import math
