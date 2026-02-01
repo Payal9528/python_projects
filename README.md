@@ -26,7 +26,7 @@ Some of the key concepts included are:
 - To help learners practice and understand Python through simple, clear examples.
 🚀 How to Use
 - Clone the repository:
-git clone https://github.com/your-username/python-basics.git
+git clone https://github.com/Payal9528/python-projects.git
 - Navigate to the folder:
 cd python-basics
 - Run any file to explore a concept:
