@@ -1,0 +1,16 @@
+x= int(input("enter the fisrt number :"))
+y = int(input("enter the second number :"))
+sum  = x + y
+sub = x - y
+multiply = x * y
+exponential =  x ** y
+module = x % y
+floatint_division = x // y
+divsion = x / y
+print("sum = ",sum)
+print("sub = ",sub)
+print("Multiplication = ",multiply)
+print("Exponential = ",exponential)
+print("Modules = ",module)
+print("Floating division = ", floatint_division)
+print ("Division = ",divsion)
